@@ -15,7 +15,7 @@ ni li tawa ilo Forge li tawa nanpa Manka 1.18. sina kepeken ona lon poka "poki p
 A bunch of random mods i have made for minecraft
 
 Octal:
-reqires mod menu.
+reqires Configured.
 lets you change the numbers in minecraft to any base. for forge on version 1.18
 
 poki pi toki pona tawa ilo Eurika:
