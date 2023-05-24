@@ -3,7 +3,7 @@
 ilo mute tawa musi Manka.
 
 Octal:
-ni li tawa ilo Forge li tawa nanpa Manka 1.18. sina kepeken ilo ni li kepeken ilo Mod Menu la sina ken ante e nanpa lon musi Manka tawa nasin pi wile sina.
+ni li tawa ilo Forge li tawa nanpa Manka 1.18. sina kepeken ilo ni li kepeken ilo Configured la sina ken ante e nanpa lon musi Manka tawa nasin pi wile sina.
 
 poki pi toki pona tawa ilo Eurika:
 ni li poki sitelen. sina kepeken ona lon poka ilo Eurika la ona li ante e ilo Eurika tawa toki pona.
